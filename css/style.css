@@ -436,12 +436,14 @@ th {
 /*REMOVE THESE LINES ONCE FINISHED
 */
 
-div {
-  border: 1px solid #000000;
-}
 html {
   width: 900px;
   margin: 0 auto;
+  background: url(../images/background2.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 h2 {
   font-style: "Lato", sans-serif;
@@ -472,8 +474,11 @@ button {
   padding: 10px 20px 10px 20px;
   width: 250px;
 }
+.question-1 {
+  margin-top: 50px;
+  padding: 30px;
+}
 .header {
-  margin-top: 20px;
   height: 100px;
 }
 .header h1 {
