@@ -1,3 +1,4 @@
 $(document).ready(function() {
-	$(".intro").hide()
+	$(".intro").hide();
+	$(".question-1").hide();
 });
