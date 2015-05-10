@@ -450,21 +450,24 @@ h2 {
   font-weight: 100;
   text-align: center;
 }
-.intro {
+.intro, .outro {
   margin-top: 200px;
   text-align: center;
 }
-.intro h1 {
+.intro h1, .outro h1 {
   color: #262626;
   font-family: "Lato", sans-serif;
   font-weight: 100;
   font-size: 75px;
 }
-.intro p {
+.intro p, .outro p {
   color: #262626;
   font-family: "Open Sans", sans-serif;
   margin-top: -30px;
   font-weight: 300;
+}
+.intro button, .outro button {
+  margin-top: 20px;
 }
 button {
   border: solid #262626;
