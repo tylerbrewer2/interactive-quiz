@@ -458,7 +458,7 @@ h2 {
   color: #262626;
   font-family: "Lato", sans-serif;
   font-weight: 100;
-  font-size: 75px;
+  font-size: 73px;
 }
 .intro p, .outro p {
   color: #262626;
@@ -509,13 +509,4 @@ img {
 }
 .answer-buttons button:last-child {
   margin-right: 0px;
-}
-.answer {
-  margin-top: 40px;
-}
-.submit-button {
-  border: solid #696969;
-  margin: 0 auto;
-  display: block;
-  background-color: #696969;
 }
